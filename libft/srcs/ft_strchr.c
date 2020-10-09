@@ -6,7 +6,7 @@
 /*   By: tdodre <tdodre@student.42lyon.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/08 12:18:16 by tdodre            #+#    #+#             */
-/*   Updated: 2020/10/08 12:24:34 by tdodre           ###   ########lyon.fr   */
+/*   Updated: 2020/10/08 18:26:31 by tdodre           ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,15 +14,11 @@
 
 char	*ft_strchr(const char *s, int c)
 {
-	int i;
-
-	i = 0;
-	while (s[i] != (unsigned char)c)
+	while (s && *s != (unsigned char)c)
 	{
-		if (!s[i])
+		if (!*s)
 			return (NULL);
-		else
-			i++;
+		s++;
 	}
-	return ((char *)s + i);
+	return ((char *)s);
 }

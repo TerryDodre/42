@@ -6,7 +6,7 @@
 /*   By: tdodre <tdodre@student.42lyon.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/10/08 15:20:09 by tdodre            #+#    #+#             */
-/*   Updated: 2020/10/08 15:25:41 by tdodre           ###   ########lyon.fr   */
+/*   Updated: 2020/10/09 11:19:30 by tdodre           ###   ########lyon.fr   */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,7 +20,7 @@ char	*ft_strdup(const char *s)
 	i = 0;
 	if (s == NULL)
 		return (NULL);
-	if (!(tmp = ft_calloc(sizeof(char), ft_strlen(s))))
+	if (!(tmp = ft_calloc(sizeof(char), ft_strlen(s) + 1)))
 		return (NULL);
 	while (*s)
 		tmp[i++] = *s++;
