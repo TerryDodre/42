@@ -6,7 +6,7 @@
 #    By: tdodre <tdodre@student.42lyon.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2020/10/08 16:53:57 by tdodre            #+#    #+#              #
-#    Updated: 2020/10/08 17:38:12 by tdodre           ###   ########lyon.fr    #
+#    Updated: 2020/10/09 14:43:19 by tdodre           ###   ########lyon.fr    #
 #                                                                              #
 # **************************************************************************** #
 
@@ -49,9 +49,12 @@ $(NAME):	$(OBJS) $(HEAD)
 			@ranlib $(NAME)
 
 clean:
+			@echo "$(YELLOW)Libft\t:\t$(RED)clean"$<
 			@$(RM) $(PATH_OBJS)
 
-fclean:		clean
+fclean:
+			@echo "$(YELLOW)Libft\t:\t$(RED)fclean"$<
+			@$(RM) $(PATH_OBJS)
 			@$(RM) $(NAME)
 
 re:			fclean all
