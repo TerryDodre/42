@@ -2,7 +2,7 @@
 
 |      Project     | Mark |       With      | Language |
 |:----------------:|:----:|:---------------:|:-:|
-|       libft      | 100% |                 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> |
+|       libft      | 100% |                 | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
 |   get_next_line  | 100% |                 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> |
 |      netwhat     | 100% |                 | n/a |
 |     ft_printf    | 100% |                 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="c" width="40" height="40"/> |
