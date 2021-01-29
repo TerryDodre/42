@@ -6,7 +6,7 @@
 |   get_next_line  |  100 %  |                 |      *     | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
 |      netwhat     |  100 %  |                 |      *     | n/a |
 |     ft_printf    |  100 %  |                 |     * *    | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
-|     ft_server    |  100 %  |                 |     * *    | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> |
+|     ft_server    |  100 %  |                 |     * *    | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/incondocker.png" alt="docker" width="40" height="40"/> |
 |       cub3d      |  100 %  |                 |    * * *   | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
 |      libasm      |  100 %  |                 |      *     | assembly |
 |    ft_services   |         |                 |            | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconkubernetes.png" alt="kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/incondocker.png" alt="docker" width="40" height="40"/> |
