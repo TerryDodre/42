@@ -20,7 +20,7 @@
 |  CPP Modules/06  |         |                 |            | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
 |  CPP Modules/07  |         |                 |            |  <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
 |  CPP Modules/08  |         |                 |            | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
-|   Philosophers   |         |                 |            |<img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
+|   philosophers   |         |                 |            |<img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
 |   ft_containers  |         |                 |            ||
 |      webserv     |         |                 |            ||
 | ft_transcendence |         |                 |            ||
