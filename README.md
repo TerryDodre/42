@@ -13,7 +13,7 @@
 |     minishell    |  100 %  |  tsengyiching   |   * * * *  | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
 |     push_swap    |         |                 |     * *    | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc.png" alt="c" width="40" height="40"/> |
 |  CPP Modules/00  |  100 %  |                 |      *     | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
-|  CPP Modules/01  |         |                 |            | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
+|  CPP Modules/01  |  100 %  |                 |      *     | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
 |  CPP Modules/02  |         |                 |            |<img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
 |  CPP Modules/03  |         |                 |            | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
 |  CPP Modules/04  |         |                 |            | <img src="https://raw.githubusercontent.com/TerryDodre/42/master/zconfig/iconc++.png" alt="cpp" width="40" height="40"/> |
